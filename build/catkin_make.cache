@@ -1,0 +1,2 @@
+camera_perception:convert_velocities:m2wr_description
+-DCATKIN_DEVEL_PREFIX=/home/cranfield/roverGazebo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/cranfield/roverGazebo_ws/install -G Unix Makefiles
